@@ -1,4 +1,1 @@
->>> import streamlit as st
-
-$ pip install streamlit
-$ streamlit hello
+print('Hello, world!')git
